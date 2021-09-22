@@ -1,7 +1,6 @@
- 👋 Hi, I’m shriya.
+ 👋 Hi, I’m Shriya.
 Currently pursuing PGD in Data Science and AI.
 👀 I’m interested in AI.
-🌱 I’m currently learning Advanced Deep Learning.
-📫 How to reach me on linkedin.
+📫 How to reach me on linkedin: https://www.linkedin.com/in/shriya-haral/ 
 
 

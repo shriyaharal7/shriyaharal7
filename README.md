@@ -1,6 +1,5 @@
  👋 Hi, I’m Shriya.
- 
-Currently pursuing PGD in Data Science and AI.
+ Data Scientist, AI Engineer and researcher.
 
 👀 I’m interested in AI.
 
